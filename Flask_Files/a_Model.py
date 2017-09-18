@@ -13,7 +13,7 @@ import base64
 punctuation = '!"#?$%“”&\'()’*+,—./:;<=>@[\\]^_`{|}~…' 
 stoplist = stopwords.words('english')
 
-api_key = 'AIzaSyBc2-0Wh_JJXbsnyGlv_3uG-c-BK7_i8Pk'
+api_key = ''
 
 def dict_replace(dictionary, key):
     return(dictionary[key])
